@@ -1,0 +1,66 @@
+{
+  "node": {
+    "31fca8a293b6dcdcc502cf7b68c81ac60e86801c": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/login/page": "rsc"
+      }
+    },
+    "3ac22b26192196fd593420064b5e3fa9f669ca2e": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/login/page": "rsc"
+      }
+    },
+    "4a8601c3bf934fdbc22d797ca081c14b1b1b9def": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/login/page": "rsc"
+      }
+    },
+    "65a7ba12a4697880aaa4db819eadedc6bcd39844": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/login/page": "rsc"
+      }
+    },
+    "770ab5f21401a5d0042a73b4361ce5a5d2cbbc9a": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/login/page": "rsc"
+      }
+    },
+    "937a7b357e06b0d99d6d719146ce050b20b059ba": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Futkarsh%2FDesktop%2Ffinal-6-after-server-actions%2Fapp%2F_lib%2Factions.js%22%2C%5B%22signInAction%22%2C%22updateBooking%22%2C%22createBooking%22%2C%22deleteBooking%22%2C%22updateGuest%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/login/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "f6XKfz6I9ErQl7TbTengMLH7xFMI8sSQoCA28lCfACk="
+}
